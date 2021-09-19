@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Plugin_Version: 2.4.2.7
+Build_Time: 202104281817
+

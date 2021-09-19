@@ -1,0 +1,10 @@
+package PACKAGE;
+
+import ohos.ace.ability.AceHarmonyApplication;
+
+public class TEPLATEAPPLICTION extends AceHarmonyApplication {
+    @Override
+    public void onCreate() {
+        super.onCreate();
+    }
+}

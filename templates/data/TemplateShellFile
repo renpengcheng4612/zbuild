@@ -1,0 +1,10 @@
+package PACKAGE;
+
+import ohos.abilityshell.AbilityShellProvider;
+
+public class TEMPLATESHELL extends AbilityShellProvider {
+    @Override
+    public boolean onCreate() {
+        return super.onCreate();
+    }
+}

@@ -1,0 +1,11 @@
+package PACKAGE;
+
+import android.os.Bundle;
+import ohos.abilityshell.AbilityShellService;
+
+public class TEMPLATESHELL extends AbilityShellService {
+    @Override
+    public void onCreate() {
+        super.onCreate();
+    }
+}
